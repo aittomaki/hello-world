@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Coding ideas
+This is a repo for miscellaneous ideas and files related to coding.
